@@ -15,3 +15,7 @@ Learning Python Basics
  - Largest of 3 numbers
  - Star Pattern
 
+## Day 3
+### Concepts Learned
+ - def
+ - params
